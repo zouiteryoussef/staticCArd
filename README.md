@@ -1,2 +1,0 @@
-# staticCArd
-Created with CodeSandbox

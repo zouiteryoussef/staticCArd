@@ -1,0 +1,60 @@
+.App {
+  font-family: sans-serif;
+  background-image: url("https://uploads.codesandbox.io/uploads/user/d0bb8d01-630c-4782-b308-b54cce71db59/V_wV-4265-bUcka82BWuWXQhKoO44OmRlcP.jpeg");
+  padding: 5px;
+  border-radius: 10px;
+  max-width: 450px;
+  margin-bottom: 20px;
+}
+.credit-card-title {
+  display: flex;
+  flex-direction: row-reverse;
+  color: white;
+  margin: 0px 15px;
+}
+.chip-img {
+  display: flex;
+  flex-direction: row;
+  width: 70px;
+  border-radius: 15px;
+  margin-left: 18px;
+  margin-top: -18px;
+}
+.credit-card-logo-details {
+  display: flex;
+  justify-content: space-between;
+}
+.logo-img {
+  height: 100px;
+  margin: 40px 10px;
+}
+
+.code-card {
+  color: white;
+  margin-left: 20px;
+  letter-spacing: 4px;
+}
+.credit-card-details {
+  width: 80%;
+}
+
+.code-card-special {
+  display: flex;
+  justify-content: space-between;
+  margin-top: -22px;
+}
+.code-card-holder {
+  color: white;
+  margin-left: 20px;
+}
+.code-card-year-month {
+  display: flex;
+}
+.code-card-holder-year-month {
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+}
+.y {
+  margin-top: -27px;
+}
